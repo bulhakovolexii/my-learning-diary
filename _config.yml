@@ -22,7 +22,7 @@ title: My learning diary
 email: bulhakovolexii@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello World! I am Olexii Bulhakov and this is my frontend learning diary.
-baseurl: "/my-learning-diary" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bulhakovolexii.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bulhakovolexii
 github_username:  bulhakovolexii
