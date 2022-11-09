@@ -35,8 +35,16 @@ plugins:
 
 remote_theme: jekyll/minima
 
+show_excerpts: true
+
 minima:
   skin: auto
+  social_links:
+    github: bulhakovolexii
+    telegram: behemothcat
+    linkedin: bulhakovolexii
+    twitter: bulhakovolexii
+    youtube_channel: UCcxmfeMacM4lgdyAC4A3xIw
 
 # Exclude from processing.
 # The following items will not be processed, by default.
