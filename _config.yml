@@ -35,6 +35,9 @@ plugins:
 
 remote_theme: jekyll/minima
 
+header_pages:
+  -
+
 show_excerpts: true
 
 minima:
