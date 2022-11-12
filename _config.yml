@@ -35,9 +35,6 @@ plugins:
 
 remote_theme: jekyll/minima
 
-header_pages:
-  -
-
 show_excerpts: true
 
 minima:
@@ -58,6 +55,10 @@ minima:
     - platform: youtube
       user_url: "https://www.youtube.com/channel/UCcxmfeMacM4lgdyAC4A3xIw"
       title:  My YouTube channel
+
+author:
+  name: Olexii Bulhakov
+  email: "bulhakovolexii@gmail.com"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
