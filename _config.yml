@@ -43,11 +43,21 @@ show_excerpts: true
 minima:
   skin: auto
   social_links:
-    github: bulhakovolexii
-    telegram: behemothcat
-    linkedin: bulhakovolexii
-    twitter: bulhakovolexii
-    youtube_channel: UCcxmfeMacM4lgdyAC4A3xIw
+    - platform: github
+      user_url: "https://github.com/bulhakovolexii"
+      title:  My GitHub profile
+    - platform: telegram
+      user_url: "https://t.me/behemothcat"
+      title:  My telegram profile
+    - platform: linkedin
+      user_url: "https://www.linkedin.com/in/bulhakovolexii/"
+      title:  My LinkedIn profile
+    - platform: twitter
+      user_url: "https://twitter.com/bulhakovolexii"
+      title:  My twitter profile
+    - platform: youtube
+      user_url: "https://www.youtube.com/channel/UCcxmfeMacM4lgdyAC4A3xIw"
+      title:  My YouTube channel
 
 # Exclude from processing.
 # The following items will not be processed, by default.
