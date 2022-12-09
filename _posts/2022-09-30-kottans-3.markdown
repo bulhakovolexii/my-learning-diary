@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Intro to HTML and CSS"
+date:   2022-09-30 14:00:00 +0200
+categories: kottans-stage-0
+---
+My impressions from the studied material:
+
+An enormous amount of time has passed since my last report, and I believe it is necessary to explain the reason. Firstly, I received a scholarship to study front-end under the "IT Generation" program. Participation in the competitive selection required a lot of effort and time, but these investments were fully justified. Secondly, I set a goal for myself, not only to pass the "sufficient" part of the courses offered but to master them completely and receive the appropriate certificates of completion of the courses. I was not prepared for the fact that these courses will contain the basics of OOP and Ajax, most of the material was not fully understood by me, and I will absolutely have to return to this later. Now I want to continue my studies with the Kottans, in parallel with the "IT Generation", according to the 2p2 scheme.
+
+<details><summary>Screenshots of completed quizzes:</summary>
+<img src="/assets/images/html-and-css/coursera-htmlcssjs.png">
+<img src="/assets/images/html-and-css/codecademy-html.png" style="width: 49%">
+<img src="/assets/images/html-and-css/codecademy-css.png" style="width: 49%">
+</details>

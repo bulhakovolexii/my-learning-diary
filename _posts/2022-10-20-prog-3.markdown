@@ -2,7 +2,7 @@
 layout: post
 title:  "Div, selectors, banner"
 date:   2022-10-20 14:00:00 +0200
-categories: module-1
+categories: prog-module-1
 ---
 - Task 1. Making a simple banner
   - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/3-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/3-lecture-homework/)

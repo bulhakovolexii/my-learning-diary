@@ -2,7 +2,7 @@
 layout: post
 title:  "Position, FLEX, icon font"
 date:   2022-10-25 14:00:00 +0200
-categories: module-1
+categories: prog-module-1
 ---
 - Task 1. Flexbox practice
   - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/4-lecture-homework/task1/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/4-lecture-homework/task1/)

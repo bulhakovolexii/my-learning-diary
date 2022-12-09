@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction in HTML"
 date:   2022-10-15 14:00:00 +0200
-categories: module-1
+categories: prog-module-1
 ---
 - Task 1 - Formulas for the properties of degrees
   - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/1-lecture-homework/task1.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/1-lecture-homework/task1.html) 

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Responsive Web Design"
+date:   2022-10-02 14:00:00 +0200
+categories: kottans-stage-0
+---
+My impressions from the studied material:
+
+Grid and Flex, are amazing technologies that made me want to put them into practice right away. Previously, I did a responsive design practice with only floating elements, which I found to be a much less intuitive way. The open question for me remains the use of Grid and Flex together, and when it is appropriate to use one of them.
+
+<details><summary>Screenshots of completed quizzes:</summary>
+<img src="https://raw.githubusercontent.com/bulhakovolexii/kottans-frontend/main/task_responsive_web_design/flexbox_froggy.png">
+<img src="https://raw.githubusercontent.com/bulhakovolexii/kottans-frontend/main/task_responsive_web_design/grid_garden.png">
+</details>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Practice. Making a simple page with form."
 date:   2022-11-17 20:50:00 +0200
-categories: module-1
+categories: prog-module-1
 ---
 - Task 1. Make up a web page from a mockup
   - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/8.1-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/8.1-lecture-homework/)

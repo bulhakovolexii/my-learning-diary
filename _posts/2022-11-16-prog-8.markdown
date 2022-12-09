@@ -2,7 +2,7 @@
 layout: post
 title:  "Lecture - Tables, pseudo-classes, pseudo-elements, rem em, fr, introduction to Grid layout"
 date:   2022-11-16 19:40:00 +0200
-categories: module-1
+categories: prog-module-1
 ---
 - Task 1. Reproduce site section layout using GRID Layout
   - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/8-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/8-lecture-homework/)

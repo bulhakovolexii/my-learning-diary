@@ -32,6 +32,7 @@ github_username:  bulhakovolexii
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-paginate
 
 remote_theme: jekyll/minima
 
@@ -55,6 +56,8 @@ minima:
     - platform: youtube
       user_url: "https://www.youtube.com/channel/UCcxmfeMacM4lgdyAC4A3xIw"
       title:  My YouTube channel
+
+paginate: 10
 
 author:
   name: Olexii Bulhakov

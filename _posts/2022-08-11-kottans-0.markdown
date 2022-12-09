@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Git Basics"
+date:   2022-08-11 14:00:00 +0200
+categories: kottans-stage-0
+---
+I learned about [kottans.org](https://kottans.org/) from my friend, who sent me a [link](https://dou.ua/forums/topic/31838/) to a post that announced recruitment for a new course.
+
+This is a cool community that is engaged in 2p2 frontend training. Unfortunately, I could not pay enough attention to get into the course with mentors, but I plan to complete and publish all the assignments here, and perhaps they will be checked by caring students of past editions.
+
+The first task for stage 0 was [introduction git and github](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
+
+My impressions from the studied material:
+
+The only contact I had with Git before was in the form of a single button in VScode that "did things" after clicking. I perceived GitHub only as a cloud storage. Everything turned out to be much wider and deeper. The first tasks in [Coursera](https://www.coursera.org/learn/introduction-git-github) and [Learn Git Branching](https://learngitbranching.js.org/) gave more new questions than answers, but I see this as a big plus, because I feel that the thirst for knowledge prompts me to work further.
+
+The result of this assignment was my first [pull request](https://github.com/kottans/mock-repo/pull/1024).

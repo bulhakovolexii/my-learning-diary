@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Git Collaboration"
+date:   2022-08-15 14:00:00 +0200
+categories: kottans-stage-0
+---
+My impressions from the studied material:
+
+I bought a subscription to Coursera to access the checked labs and didn't regret it at all. This allowed me to experiment with Git functionality from the command line without the risk of getting confused and messing up my files since the entire lab process takes place on a test remote machine with an SSH connection. This practice helped a lot to consolidate the studied material. Learning Git Branching helped to visualize all the difficult moments to make it easier to imagine what happens after a particular command. In particular, it helped me realize that branches are in three states at the same time, and until the `fetch` command is executed, the `main`, `origin/main` locally located, and `main` remotely located branches can have different files and lines of code. I acquired more questions than answers, as after the previous task, so I feel an urgent need to take each of the courses at least once more to consolidate the material.
+
+<details><summary>Screenshots of completed quizzes:</summary>
+<img src="/assets/images/git/coursera-git.png">
+<img src="https://raw.githubusercontent.com/bulhakovolexii/kottans-frontend/main/task_git_collaboration/branching_basics.png" style="width: 49%">
+<img src="https://raw.githubusercontent.com/bulhakovolexii/kottans-frontend/main/task_git_collaboration/branching_remote.png" style="width: 49%">
+</details>

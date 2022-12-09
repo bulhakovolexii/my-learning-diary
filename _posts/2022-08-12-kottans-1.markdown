@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Linux CLI, and HTTP"
+date:   2022-08-12 14:00:00 +0200
+categories: kottans-stage-0
+---
+## Linux Survival
+Before starting the frontend course, I decided in advance to install Linux on my main computer. The advice from students in the chat prompted me to do this. If I had familiarized myself with the basic commands of the command line earlier, then, probably, Linux configuring would be much easier. Most of the learned commands are important and useful in everyday use, except maybe the commands for work with the printer.
+
+## HTTP Basics
+This material was very difficult for me to understand, but quite interesting. I learned that the IP/TCP/HTTP protocols don't just work together, but do so at different levels of the hierarchy. I really liked the material about working with the cache, it became clear that it's very important for speed and traffic savings. I definitely want to try using the authorization mechanism in one of my future projects
+
+<details><summary>Screenshots of completed quizzes:</summary>
+<img src="https://raw.githubusercontent.com/bulhakovolexii/kottans-frontend/main/task_linux_cli/quiz_1.png" style="width: 49%">
+<img src="https://raw.githubusercontent.com/bulhakovolexii/kottans-frontend/main/task_linux_cli/quiz_2.png" style="width: 49%">
+<img src="https://raw.githubusercontent.com/bulhakovolexii/kottans-frontend/main/task_linux_cli/quiz_3.png" style="width: 49%">
+<img src="https://raw.githubusercontent.com/bulhakovolexii/kottans-frontend/main/task_linux_cli/quiz_4.png" style="width: 49%">
+</details>
