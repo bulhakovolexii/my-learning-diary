@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Practice. Navigation."
+title:  "Navigation"
 date:   2022-11-15 09:00:00 +0200
 categories: prog-module-1
 ---

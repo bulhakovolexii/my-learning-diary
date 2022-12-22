@@ -11,18 +11,18 @@
 <p id="result1">Результат &#8594; <span></span></p>
 <P>Код:</P>
 <pre>
-    function task1() {
-        const a = +prompt('Введіть перше число');
-        const b = +prompt('Введіть друге число');
-        const c = +prompt('Введіть третє число');
-        let result;
-        if (a === b || b === c || a === c) {
-            alert('Помилка');
-        } else {
-            result = (a + b + c) / 3;
-        }
-        document.getElementById("result1").querySelector('span').innerHTML = result;
+function task1() {
+    const a = +prompt('Введіть перше число');
+    const b = +prompt('Введіть друге число');
+    const c = +prompt('Введіть третє число');
+    let result;
+    if (a === b || b === c || a === c) {
+        alert('Помилка');
+    } else {
+        result = (a + b + c) / 3;
     }
+    document.getElementById("result1").querySelector('span').innerHTML = result;
+}
 </pre>
 <script>
     function task1() {
@@ -45,21 +45,21 @@
 <p id="result2">Результат &#8594; <span></span></p>
 <P>Код:</P>
 <pre>
-    function task2() {
-        const a = +prompt('Введіть перше число');
-        const b = +prompt('Введіть друге число');
-        const c = +prompt('Введіть третє число');
-        let max;
-        if (a > b) {
-            max = a;
-        } else {
-            max = b;
-        }
-        if (c > max) {
-            max = c;
-        }
-        document.getElementById("result2").querySelector('span').innerHTML = max;
+function task2() {
+    const a = +prompt('Введіть перше число');
+    const b = +prompt('Введіть друге число');
+    const c = +prompt('Введіть третє число');
+    let max;
+    if (a > b) {
+        max = a;
+    } else {
+        max = b;
     }
+    if (c > max) {
+        max = c;
+    }
+    document.getElementById("result2").querySelector('span').innerHTML = max;
+}
 </pre>
 <script>
     function task2() {
