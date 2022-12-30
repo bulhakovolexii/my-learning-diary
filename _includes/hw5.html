@@ -4,32 +4,56 @@
         text-transform: uppercase;
     }
 
+    .select {
+        display: flex;
+        max-width: 500px;
+        margin: 0 auto;
+        flex-direction: column;
+        gap: 5px;
+        margin-bottom: 15px;
+    }
+
+    .input {
+        display: flex;
+        gap: 5px;
+    }
+
+    .btns {
+        display: flex;
+        gap: 5px;
+        justify-content: center;
+    }
+
     #newElementText {
-        width: 285px;
+        flex: 1 1 auto;
     }
 
     #select {
-        width: 414px;
+        text-align: center;
     }
 </style>
 <h1>Task 1</h1>
 <p>За допомогою властивостей select.options, select.value та select.selectedIndex, додати 4 функціональні кнопки для
     навігації по елементам випадаючого списку.</p>
-<input type="text" id="newElementText">
-<button onclick="addElement()">Додати елемент</button>
-<br>
-<select id="select">
-    <option value="value1">Значення 1</option>
-    <option value="value2">Значення 2</option>
-    <option value="value3">Значення 3</option>
-    <option value="value4">Значення 4</option>
-    <option value="value5">Значення 5</option>
-</select>
-<br>
-<button onclick="getFirst()">Обрати перший</button>
-<button onclick="getPrev()">Попередній</button>
-<button onclick="getNext()">Наступний</button>
-<button onclick="getLast()">Обрати останній</button>
+<div class="select">
+    <div class="input">
+        <input type="text" id="newElementText">
+        <button onclick="addElement()">Додати елемент</button>
+    </div>
+    <select id="select">
+        <option value="value1">Значення 1</option>
+        <option value="value2">Значення 2</option>
+        <option value="value3">Значення 3</option>
+        <option value="value4">Значення 4</option>
+        <option value="value5">Значення 5</option>
+    </select>
+    <div class="btns">
+        <button onclick="getFirst()">Обрати перший</button>
+        <button onclick="getPrev()">Попередній</button>
+        <button onclick="getNext()">Наступний</button>
+        <button onclick="getLast()">Обрати останній</button>
+    </div>
+</div>
 <pre>
 let select = document.getElementById('select');
 let newElementText = document.getElementById('newElementText');
