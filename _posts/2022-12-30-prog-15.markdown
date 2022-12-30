@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Scopes and working with tags"
+date:   2022-12-30 18:54:00 +0200
+categories: prog-module-2
+excerpt_separator: <!--more-->
+---
+- Using the select.options, select.value and select.selectedIndex properties, add 4 function buttons for navigating through the dropdown list items.
+  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/15-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/15-lecture-homework/)
+<!--more-->
+{% include hw5.html %}
