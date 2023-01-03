@@ -1,3 +1,20 @@
+<style>
+    label {
+        display: inline-block;
+        width: 29%;
+    }
+
+    input {
+        display: inline-block;
+        width: 70%;
+        box-sizing: border-box;
+    }
+
+    button {
+        display: block;
+        margin: 15px auto;
+    }
+</style>
 <h2>Task 1</h2>
 <p>Створити масив, який зберігатиме у собі інформацію про співробітників підприємства.</p>
 <ul>
@@ -15,10 +32,10 @@
 <label for="occupation">Посада</label>
 <input id="occupation" name="occupation" type="text" list="occupationsList">
 <!-- <datalist id="occupationsList">
-    <option value="director">
-    <option value="manager">
-    <option value="programmer">
-</datalist> -->
+        <option value="director">
+        <option value="manager">
+        <option value="programmer">
+    </datalist> -->
 <button onclick="addNewEmployee()">Додати</button>
 <button onclick="showAllEmployees()">Показати всіх</button>
 <pre id="consoleEmulation" style="height: 200px; display: flex; flex-direction: column-reverse; overflow:auto"></pre>
