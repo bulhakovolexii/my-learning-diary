@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Form with tabs"
+date:   2023-01-26 12:30:00 +0200
+categories: prog-module-2
+excerpt_separator: <!--more-->
+---
+- Create a pop-up form with tabs and custom inputs
+  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/20-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/20-lecture-homework/)
+<!--more-->
