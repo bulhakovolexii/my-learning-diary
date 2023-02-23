@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Map, Football and Trello"
+date:   2023-01-26 12:30:00 +0200
+categories: prog-module-2
+excerpt_separator: <!--more-->
+---
+- Add city names on mouseover
+  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/21-lecture-homework/map/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/21-lecture-homework/map/)
+- Make a "football" mini-game with drag n drop API
+  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/21-lecture-homework/map/football.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/21-lecture-homework/football/)
+- Make an app like Trello
+  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/21-lecture-homework/map/trello.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/21-lecture-homework/trello/)
+<!--more-->
