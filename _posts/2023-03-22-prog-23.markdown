@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Exchange rate table"
+date:   2023-03-22 16:50:00 +0200
+categories: prog-module-3
+excerpt_separator: <!--more-->
+---
+- Make a page with the exchange rate using the React library
+  - [demo](https://bulhakovolexii.github.io/react-exchange-rate-table/) / [code base](https://github.com/bulhakovolexii/react-exchange-rate-table/blob/main/)
+<!--more-->
