@@ -6,5 +6,5 @@ categories: prog-module-2
 excerpt_separator: <!--more-->
 ---
 - Create microblog with data from "JSON-placeholder"
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/22-lecture-homework/) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/21-lecture-homework/)
+  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/22-lecture-homework/) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/22-lecture-homework/)
 <!--more-->
