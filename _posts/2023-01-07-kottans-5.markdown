@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "HTML-CSS-POPUP"
+date:   2023-02-07 14:00:00 +0200
+categories: kottans-stage-0
+excerpt_separator: <!--more-->
+---
+- The purpose of this assignment is to practice coding HTML and CSS from a layout.
+ - [demo](https://bulhakovolexii.github.io/hooli-style-popup/) / [code base](https://github.com/bulhakovolexii/hooli-style-popup/)
+ - [PR](https://github.com/kottans/frontend-2019-p2p/pull/214/)
+<!--more-->
+## Requirements
+- no JavaScript, only HTML/CSS, preprocessors allowed
+- no external libraries or frameworks
+- web browser support: Chrome only (use the latest features)
+- the popup is expected to have three states depending on user actions:
+  - initial state: popups are not visible
+  - after clicking the popup-button, the popup becomes visible or hidden if it is already open
+  - click the "More" button to add 3 to 10 more icons and make the popup content scrollable
+
+My impressions from the studied material:
+
+This was my first experience of developing a complete finished project, without any pre-prepared basis. It was difficult for me to navigate my code. Because of this, I somewhat started everything from scratch. But this task helped to better navigate a relatively large document.

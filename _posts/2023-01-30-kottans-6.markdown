@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "JS-DOM"
+date:   2023-02-30 14:00:00 +0200
+categories: kottans-stage-0
+excerpt_separator: <!--more-->
+---
+- Implement an interactive side-menu without reloading.
+ - [demo](https://bulhakovolexii.github.io/js-dom/) / [code base](https://github.com/bulhakovolexii/js-dom/)
+ - [PR](https://github.com/kottans/frontend-2019-p2p/pull/217)
+<!--more-->
+## Requirements
+- complex implementation of full page responsive layout (Udacity course on adaptive HTML/CSS).
+  - you can store data in an array of objects
+  - you can use ```innerHTML, insertAdjacentHTML, append, createElement, addEventListener,```
+  - array methods like ```Array#filter, Array#sort, Array#find,``` etc. will be useful.
+  - and of course - DOM methods.
+
+My impressions from the studied material:
+
+Before completing this assignment, I already had some knowledge of how DOM-API works, but I had no practical experience with data structures. Of particular difficulty in this task were the issues of animation and the creation of an adaptive design of the side menu.
