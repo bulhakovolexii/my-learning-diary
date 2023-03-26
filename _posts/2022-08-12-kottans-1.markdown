@@ -3,7 +3,9 @@ layout: post
 title:  "Linux CLI, and HTTP"
 date:   2022-08-12 14:00:00 +0200
 categories: kottans-stage-0
+excerpt_separator: <!--more-->
 ---
+<!--more-->
 ## Linux Survival
 Before starting the frontend course, I decided in advance to install Linux on my main computer. The advice from students in the chat prompted me to do this. If I had familiarized myself with the basic commands of the command line earlier, then, probably, Linux configuring would be much easier. Most of the learned commands are important and useful in everyday use, except maybe the commands for work with the printer.
 

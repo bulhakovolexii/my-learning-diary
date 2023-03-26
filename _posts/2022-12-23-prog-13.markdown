@@ -6,6 +6,5 @@ categories: prog-module-2
 excerpt_separator: <!--more-->
 ---
 - Solve exercises 2, 4 and 5 from lecture 2
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/13-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/13-lecture-homework/)
 <!--more-->
 {% include hw3.html %}

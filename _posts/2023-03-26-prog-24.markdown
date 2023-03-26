@@ -1,0 +1,13 @@
+---
+layout: post
+title:  '"Star Wars" application'
+date:   2023-03-22 16:50:00 +0200
+categories: prog-module-3
+excerpt_separator: <!--more-->
+---
+- The first development of the "Star Wars" application.
+  - Output character cards using swapi.dev
+  - Each card must have a title and an image
+  - Each card must contain a link that opens in a new tab
+- [demo](https://bulhakovolexii.github.io/react-heroes-cards/) / [code base](https://github.com/bulhakovolexii/react-heroes-cards/)
+<!--more-->
