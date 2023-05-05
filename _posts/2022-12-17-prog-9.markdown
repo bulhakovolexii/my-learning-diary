@@ -5,7 +5,7 @@ date:   2022-12-17 20:50:00 +0200
 categories: prog-module-1
 ---
 - Task 1. Add a burger menu to the "Wasted Releases" project
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/9-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/9-lecture-homework/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw09/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw09/)
 - Task 2. Add adaptation to all previous projects.
   - ✓ Done
 - Task 3. Register free hosting and domain, and publish a page with links to all projects there.

@@ -5,9 +5,9 @@ date:   2022-10-18 14:00:00 +0200
 categories: prog-module-1
 ---
 - Task 1 - Anchor to top of page.
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/2-lecture-homework/task1.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/2-lecture-homework/task1.html)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw02/task1.html) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/blob/main/hw02/task1.html)
 - Task 2 - Background without scaling
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/2-lecture-homework/task2.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/2-lecture-homework/task2.html)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw02/task2.html) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/blob/main/hw02/task2.html)
 - Task 3 - Background with scaling
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/2-lecture-homework/task3.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/2-lecture-homework/task3.html)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw02/task3.html) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/blob/main/hw02/task3.html)
   

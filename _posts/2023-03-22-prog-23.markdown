@@ -6,5 +6,5 @@ categories: prog-module-3
 excerpt_separator: <!--more-->
 ---
 - Make a page with the exchange rate using the React library
-  - [demo](https://bulhakovolexii.github.io/react-exchange-rate-table/) / [code base](https://github.com/bulhakovolexii/react-exchange-rate-table/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw23/build/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw23/)
 <!--more-->

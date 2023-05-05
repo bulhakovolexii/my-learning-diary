@@ -5,9 +5,9 @@ date:   2022-11-15 09:00:00 +0200
 categories: prog-module-1
 ---
 - Task 1. Make a simple navbar
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/7-lecture-homework/task1/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/7-lecture-homework/task1/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw07/task1/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw07/task1/)
 - Task 2. Make a simple menu
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/7-lecture-homework/task2/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/7-lecture-homework/task2/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw07/task2/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw07/task2/)
 - Task 3. Make a navbar with collapsible submenu
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/7-lecture-homework/task3/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/7-lecture-homework/task3/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw07/task3/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw07/task3/)
   

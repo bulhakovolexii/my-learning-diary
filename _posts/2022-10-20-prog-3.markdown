@@ -5,5 +5,5 @@ date:   2022-10-20 14:00:00 +0200
 categories: prog-module-1
 ---
 - Task 1. Making a simple banner
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/3-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/3-lecture-homework/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw03/index.html) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw03/)
   

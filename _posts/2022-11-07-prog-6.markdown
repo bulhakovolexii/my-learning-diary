@@ -5,5 +5,5 @@ date:   2022-11-07 14:00:00 +0200
 categories: prog-module-1
 ---
 - Task 1. Make up a web page from a mockup
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/6-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/6-lecture-homework/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw06/index.html) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw06/)
   

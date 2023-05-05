@@ -6,5 +6,5 @@ categories: prog-module-2
 excerpt_separator: <!--more-->
 ---
 - Create a javascript text input calculator
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/19-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/19-lecture-homework/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw19/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw19/)
 <!--more-->

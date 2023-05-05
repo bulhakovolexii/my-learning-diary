@@ -9,4 +9,4 @@ After a theoretical study of the basics of html css and javascript, I completed 
 
 The result is a simple yet interactive page. I'm adding a link to what I ended up with below.
 
-[https://bulhakov.dev/getting-started-with-the-web/](https://bulhakov.dev/getting-started-with-the-web/)
+[http://bulhakov.rf.gd/getting-started-with-the-web//](http://bulhakov.rf.gd/getting-started-with-the-web//)

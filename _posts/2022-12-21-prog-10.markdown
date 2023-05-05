@@ -5,5 +5,5 @@ date:   2022-12-21 20:50:00 +0200
 categories: prog-module-1
 ---
 - Make up a page according to the layout from Figma using the SASS preprocessor
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/10-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/10-lecture-homework/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw10/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw10/)
 

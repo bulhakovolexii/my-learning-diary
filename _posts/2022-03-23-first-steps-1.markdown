@@ -14,4 +14,4 @@ So I gained some experience, and I realized how important the flexibility of the
 
 The result of my work is shown below.
 
-[old.basicsofthermography.online](https://old.basicsofthermography.online/)
+[old.thermography.online](https://old.thermography.online/)

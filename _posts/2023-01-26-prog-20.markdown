@@ -6,5 +6,5 @@ categories: prog-module-2
 excerpt_separator: <!--more-->
 ---
 - Create a pop-up form with tabs and custom inputs
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/20-lecture-homework/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/20-lecture-homework/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw20/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw20/)
 <!--more-->

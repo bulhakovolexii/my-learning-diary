@@ -6,9 +6,9 @@ categories: prog-module-2
 excerpt_separator: <!--more-->
 ---
 - Add city names on mouseover
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/21-lecture-homework/map/map.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/21-lecture-homework/map/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw21/map/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw21/map/)
 - Make a "football" mini-game with drag n drop API
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/21-lecture-homework/football/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/21-lecture-homework/football/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw21/football/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw21/football/)
 - Make an app like Trello
-  - [demo](https://bulhakovolexii.github.io/Prog-academy-homeworks/21-lecture-homework/trello/index.html) / [code base](https://github.com/bulhakovolexii/Prog-academy-homeworks/blob/main/21-lecture-homework/trello/)
+  - [demo](https://bulhakovolexii.github.io/prog-academy-homeworks/hw21/trello/) / [code base](https://github.com/bulhakovolexii/prog-academy-homeworks/tree/main/hw21/trello/)
 <!--more-->
